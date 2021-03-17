@@ -1,0 +1,12 @@
+1. Create a variable named carname and assign the value Volvo to it.
+2. Create a variable named x and assign the value 50 to it.
+3. Display the sum of 5 + 10, using two variables: x and y.
+4. Create a variable called z, assign x + y to it, and display the result. 
+5. Given a string, display only those characters which are present at an even index number. (For example, str = "pynative" so you should display ‘p’, ‘n’, ‘t’, ‘v’.)
+6. Given a string and an integer number n, remove characters from a string starting from zero up to n and return a new string. (For example, removeChars("pynative", 4) so output must be tive. )
+7. Given a list of numbers, return True if first and last number of a list is same
+8. Given a list of integers from 0 to 100 print the numbers divisible by both 3 and 5
+9. Count all lower case, upper case, digits, and special symbols from a given string
+   str1 = "reQ  bg%^_+__|"
+10. Given a Python list, create a new list from the first 4th element to the 7th element.
+    list1 = [5, 20, 15, 20, 101, 33, 9, 25, 50, 20]

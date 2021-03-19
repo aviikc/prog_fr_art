@@ -1,0 +1,14 @@
+1. Define a variable x with value 56
+2. Calculate 2x + x  and store in another variable y
+3. Define a variable myList with all integers from 0 to 9
+4. Add the value of y to myList
+5. Create a variable pincode and store your pincode in it.
+6. Write a python program to calculare the area of a circle.
+   (In case there is a doubt: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/area-of-a-circle#:~:text=The%20area%20of%20a%20circle,(A%20%3D%20%CF%80%20r%C2%B2).)
+7. Write a python program to calculate the area of a rectangle.
+8. Using a Python Program count the number of vowels in your name.
+9. Given a variable 
+			myJob = "VFx Technical Director"
+   convert this to 	myJob = "Technical Director VFx" without using another variable.
+10. Write a python program to detect a palindrome(A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar. )
+11. Write a program to find if a number is even or odd

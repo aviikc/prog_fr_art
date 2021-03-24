@@ -47,6 +47,8 @@
 6. Create classes from the following class diagrams:
    ![Class Diagrams](/images/classes.png)
 
+I have solved problem A as an example
+
 ```
 class Circle:
   def __init__(self, radius):
@@ -57,4 +59,13 @@ class Circle:
 
   def get_circumference(self):
     return 2*3.14159*self.radius
+
+# An example of use
+
+new_circle = Circle(6)
+
+print(new_circle.get_circumference())  #This prints the circumferance
+
+print(new_circle.get_area())  #This prints the area of the circle
+
 ```

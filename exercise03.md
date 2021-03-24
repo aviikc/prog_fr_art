@@ -45,7 +45,7 @@
    And all for the want of a nail.
 
 6. Create classes from the following class diagrams:
-   [./img/Rectangle][classes]
+   ![Class Diagrams](./img/Untitled Diagram.png)
 
 ```
 class Circle:

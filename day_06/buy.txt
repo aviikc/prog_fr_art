@@ -1,0 +1,5 @@
+100 µH, 3.6 A
+rotary encoder
+Rotary Switch 1 pole 12 way
+APR33A3 IC 
+28 Pin IC Base
